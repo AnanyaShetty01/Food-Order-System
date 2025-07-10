@@ -15,7 +15,7 @@ The **Food Order System** is a web-based application that enables users to brows
 ## 🛠️ Tech Stack
 - **Frontend**: React.js
 - **Backend**: Node.js with Express.js
-- **Database**: MongoDB
+- **Database**: PHP
 - **Authentication**: JWT (JSON Web Token)
 - **Styling**: Tailwind CSS / Bootstrap
 - **Payment**: Razorpay / Stripe (if implemented)
